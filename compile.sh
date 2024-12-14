@@ -53,7 +53,7 @@ echo " So which device you have ? "
 echo " Answer 1 = xiaomi and 2 = oneplus and 3 = realme/oppo "
 read Ans2
 
-if [ $Ans2= 1 ]
+if [ $Ans2 = 1 ]
 then
 echo " Give me your Xiaomi Device trees. [Give the github link ] "
 read Xtree
